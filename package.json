@@ -1,0 +1,15 @@
+{
+  "name": "projectnode",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node hello-world.js"
+  },
+  "author": "Ichrak",
+  "license": "ISC",
+  "dependencies": {
+    "generate-password": "^1.7.1"
+  }
+}
